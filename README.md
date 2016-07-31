@@ -9,39 +9,17 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
-## Requirements
-
-## Installation
-
-UURCCentralizedTokenView is available through [CocoaPods](http://cocoapods.org). To install
-it, simply add the following line to your Podfile:
-
-```ruby
-pod "UURCCentralizedTokenView"
-```
-
-## Author
-
-Ugur Cetinkaya, ugurcetinkaya@ymail.com
-
-## License
-
-UURCCentralizedTokenView is available under the MIT license. See the LICENSE file for more info.
-=======
-Customizable Centralized TokenView 
-
-You can run *`pod install`*. And run example app to understand usage of this library.
-
 # Installation
 ## Manaully
 Add *`UURCCentralizedTokenView.h`* and *`UURCCentralizedTokenView.m`*  files to your project.
 
 ## CocoaPods
-Add the following to your `Podfile`
-````ruby
-pod 'UURCCentralizedTokenView'
-use_frameworks!
-````
+UURCCentralizedTokenView is available through [CocoaPods](http://cocoapods.org). To install
+it, simply add the following line to your *`Podfile`*:
+
+```ruby
+pod "UURCCentralizedTokenView"
+```
 
 # Usage
 
@@ -82,6 +60,10 @@ You can detect selected token with *`UURCCentralizedTokenViewDelegate`* delegate
 3. Commit your changes: `git commit -am 'Add some feature'`
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request..
+
+# Author
+
+Ugur Cetinkaya, ugurcetinkaya@ymail.com
 
 
 # License

@@ -1,6 +1,5 @@
 # UURCCentralizedTokenView
 
-<<<<<<< HEAD
 [![CI Status](http://img.shields.io/travis/Ugur Cetinkaya/UURCCentralizedTokenView.svg?style=flat)](https://travis-ci.org/Ugur Cetinkaya/UURCCentralizedTokenView)
 [![Version](https://img.shields.io/cocoapods/v/UURCCentralizedTokenView.svg?style=flat)](http://cocoapods.org/pods/UURCCentralizedTokenView)
 [![License](https://img.shields.io/cocoapods/l/UURCCentralizedTokenView.svg?style=flat)](http://cocoapods.org/pods/UURCCentralizedTokenView)
@@ -89,4 +88,3 @@ You can detect selected token with *`UURCCentralizedTokenViewDelegate`* delegate
 
 UURCCentralizedTokenView is under MIT license.
 Copyright © 2016-present Ugur Cetinkaya.
->>>>>>> 6864dbdd261b1ab07f8d60eadbad386f0a64c315

@@ -1,6 +1,0 @@
-framework module Pods_UURCCentralizedTokenView_Example_UURCCentralizedTokenView_Tests {
-  umbrella header "Pods-UURCCentralizedTokenView_Example-UURCCentralizedTokenView_Tests-umbrella.h"
-
-  export *
-  module * { export * }
-}

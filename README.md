@@ -18,7 +18,7 @@ UURCCentralizedTokenView is available through [CocoaPods](http://cocoapods.org).
 it, simply add the following line to your *`Podfile`*:
 
 ```ruby
-pod "UURCCentralizedTokenView"
+pod 'UURCCentralizedTokenView', :git => 'https://github.com/ugurcetinkaya/UURCCentralizedTokenView.git'
 ```
 
 # Usage

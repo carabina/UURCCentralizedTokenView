@@ -1,10 +1,8 @@
-use_frameworks!
+platform :ios, '8.0'
 
-target 'UURCCentralizedTokenView_Example' do
-  pod 'UURCCentralizedTokenView', :path => '../'
-  pod 'Masonry', '1.0.0'
+# ignore all warnings from all pods
+inhibit_all_warnings!
 
-  target 'UURCCentralizedTokenView_Tests' do
-    pod 'UURCCentralizedTokenView', :path => '../'
-  end
-end
+pod 'UURCCentralizedTokenView'
+pod 'Masonry', '1.0.0'
+

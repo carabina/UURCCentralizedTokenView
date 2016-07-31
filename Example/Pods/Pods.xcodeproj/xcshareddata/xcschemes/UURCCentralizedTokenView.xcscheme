@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = 'C01391076A4A8F732F0D874B'
+               BlueprintIdentifier = '0006CD09044C88F24C90E456'
                BlueprintName = 'UURCCentralizedTokenView'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'UURCCentralizedTokenView.framework'>

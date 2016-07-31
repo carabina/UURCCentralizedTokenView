@@ -20,7 +20,7 @@ TODO: Add long description of the pod here.
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Ugur Cetinkaya' => 'ugurcetinkaya@ymail.com' }
   s.source           = { :git => 'https://github.com/ugurcetinkaya/UURCCentralizedTokenView.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/ceuur'
+  s.social_media_url = 'https://twitter.com/ceuur'
 
   s.ios.deployment_target = '8.0'
 

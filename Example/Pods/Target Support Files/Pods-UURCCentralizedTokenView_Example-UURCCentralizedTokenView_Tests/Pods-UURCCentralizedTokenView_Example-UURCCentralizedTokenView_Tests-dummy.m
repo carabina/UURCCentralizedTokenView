@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_UURCCentralizedTokenView_Example_UURCCentralizedTokenView_Tests : NSObject
+@end
+@implementation PodsDummy_Pods_UURCCentralizedTokenView_Example_UURCCentralizedTokenView_Tests
+@end

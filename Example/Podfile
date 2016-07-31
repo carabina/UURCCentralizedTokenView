@@ -2,10 +2,9 @@ use_frameworks!
 
 target 'UURCCentralizedTokenView_Example' do
   pod 'UURCCentralizedTokenView', :path => '../'
+  pod 'Masonry', '1.0.0'
 
   target 'UURCCentralizedTokenView_Tests' do
-    inherit! :search_paths
-
-    
+    pod 'UURCCentralizedTokenView', :path => '../'
   end
 end

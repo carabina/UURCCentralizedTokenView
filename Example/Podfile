@@ -3,6 +3,5 @@ platform :ios, '8.0'
 # ignore all warnings from all pods
 inhibit_all_warnings!
 
-pod 'UURCCentralizedTokenView'
+pod 'UURCCentralizedTokenView', :git => 'https://github.com/ugurcetinkaya/UURCCentralizedTokenView.git'
 pod 'Masonry', '1.0.0'
-
